@@ -43,3 +43,4 @@ If `wofi` is available, it will use the `borderlands4-launcher.css` theme. Other
 - Change the default command in `borderlands4-launcher.sh` to use another Wayland menu.
 # hyprland-launcherborderlands
 # hyprland-launcherborderlands
+# hyprland-launcherborderlands
